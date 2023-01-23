@@ -2,7 +2,7 @@
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
-## Introduction
+## Introduction✨
 
 Heimdall is a cross organizer support helper for Payutc, and globally every Weezevent's event organizer.
 
